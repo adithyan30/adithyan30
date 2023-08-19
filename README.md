@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/header.png)
+<img  height="200px" width="1000px" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
 <h1 align="center">Hi 👋, I'm Adithyan</h1>
 <h3 align="center">A passionate Full Stack Developer in MERN Stack</h3>
 
